@@ -1,0 +1,5 @@
+install.packages("tidyverse")
+install.packages("dslabs")
+install.packages("ggthemes")
+install.packages("ggrepel")
+install.packages("gridExtra")
